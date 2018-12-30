@@ -1,2 +1,2 @@
 # hello-world
-firt git hug repo
+first git hug repo.
